@@ -1,0 +1,22 @@
+
+
+
+Strings
+
+String is the technical name for text. To define a block of code as a string, you need to include it in either double quotes("") or single quotes(''). It doesnt matter which one you use as long as you are consistent.
+
+There are some characters you need to be particularly careful with when inputting them into strings. These include:
+				
+									" ' \
+
+That is because these symbols have special meanings in Python and it can get confusing if you use them in a string.
+
+If you want to use one of these symbols you need to precede it with a backslash symbol and then Python will know to ignore the symbol and will treat it as normal text that is to be displayed.
+
+Symbol 				How to type this into a Python string
+  " 									\"
+  ' 									\'
+  \										 \\
+
+
+  
